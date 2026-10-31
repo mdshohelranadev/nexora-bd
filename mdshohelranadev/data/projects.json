@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "title": "E-Commerce Store",
+    "description": "A full online shopping experience with product listings, cart and checkout.",
+    "tags": "Next.js, TypeScript, Tailwind CSS",
+    "status": "live",
+    "url": "https://veloura-khaki.vercel.app/"
+  },
+  { "id": "2", "title": "Project Two", "description": "Under construction. Coming soon.", "tags": "React, Node.js", "status": "construction" },
+  { "id": "3", "title": "Project Three", "description": "Under construction. Coming soon.", "tags": "Next.js, Prisma", "status": "construction" },
+  { "id": "4", "title": "Project Four", "description": "Under construction. Coming soon.", "tags": "React, Supabase", "status": "construction" },
+  { "id": "5", "title": "Project Five", "description": "Under construction. Coming soon.", "tags": "TypeScript, Express", "status": "construction" },
+  { "id": "6", "title": "Project Six", "description": "Under construction. Coming soon.", "tags": "Next.js, MySQL", "status": "construction" }
+]
